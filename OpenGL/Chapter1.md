@@ -54,3 +54,5 @@ They can take the following form (n represents the number of components):
 •dvecn: a vector of n double components
 
 When vertex shader output variable has the same name and type with the fragment shader , they would be connected.
+
+
